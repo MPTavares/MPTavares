@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus Paulo Tavares
 - 👀 I’m interested in series, movies, plays, games and my family.
-- 🌱 I’m currently learning testing, learning machine, java
+
 
 <!---
 MPTavares/MPTavares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
